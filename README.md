@@ -10,7 +10,7 @@
 
 ## 🎥 Демонстрация работы
 
-[видео_презентация_окк.mp4]([видео_презентация_окк.mp4](https://drive.google.com/file/d/1pSzhd0YcShKvkW52UTP4ryC_Dp-EbEJS/view?usp=drive_link))
+[видео_презентация_окк.mp4](https://drive.google.com/file/d/1pSzhd0YcShKvkW52UTP4ryC_Dp-EbEJS/view?usp=drive_link)
 
 В видео показан полный путь обработки:
 
